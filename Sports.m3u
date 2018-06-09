@@ -108,3 +108,37 @@ http://arabapps.live:8000/live/36031528540334/36031528540334/1123.ts
 http://arabapps.live:8000/live/36031528540334/36031528540334/1122.ts
 #EXTINF:-1,AR:BEINSPORTS-10 SD
 http://arabapps.live:8000/live/36031528540334/36031528540334/1121.ts
+#EXTINF:-1,AR: BeinSports SD 1
+http://217.182.173.184:8000/live/asil/1234/10701.ts
+#EXTINF:-1,AR: BeinSports SD 2
+http://217.182.173.184:8000/live/asil/1234/10702.ts
+#EXTINF:-1,AR: BeinSports SD 3
+http://217.182.173.184:8000/live/asil/1234/10703.ts
+#EXTINF:-1,AR: BeinSports SD 4
+http://217.182.173.184:8000/live/asil/1234/10704.ts
+#EXTINF:-1,AR: BeinSports SD 5
+http://217.182.173.184:8000/live/asil/1234/10705.ts
+#EXTINF:-1,AR: BeinSports SD 6
+http://217.182.173.184:8000/live/asil/1234/10706.ts
+#EXTINF:-1,AR: BeinSports SD 7
+http://217.182.173.184:8000/live/asil/1234/10707.ts
+#EXTINF:-1,AR: BeinSports SD 8
+http://217.182.173.184:8000/live/asil/1234/10708.ts
+#EXTINF:-1,AR: beIN SPORTS 9 HD
+http://217.182.173.184:8000/live/asil/1234/10785.ts
+#EXTINF:-1,AR: beIN SPORTS 10 HD
+http://217.182.173.184:8000/live/asil/1234/10783.ts
+#EXTINF:-1,AR: beIN SPORTS 11 HD
+http://217.182.173.184:8000/live/asil/1234/10782.ts
+#EXTINF:-1,AR: beIN SPORTS 12 HD
+http://217.182.173.184:8000/live/asil/1234/10784.ts
+#EXTINF:-1,AR: BEIN SPORT 1
+http://217.182.173.184:8000/live/asil/1234/17.ts
+#EXTINF:-1,AR: BEIN SPORT 2
+http://217.182.173.184:8000/live/asil/1234/16.ts
+#EXTINF:-1,AR: BEIN SPORT 3
+http://217.182.173.184:8000/live/asil/1234/15.ts
+#EXTINF:-1,AR: BEIN SPORT 4
+http://217.182.173.184:8000/live/asil/1234/14.ts
+#EXTINF:-1,AR: BEIN SPORT 5
+http://217.182.173.184:8000/live/asil/1234/13.ts
