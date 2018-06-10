@@ -1,137 +1,336 @@
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD ARB" tvg-logo="" group-title="Arabic",beIN Sports News HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15019.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports World Cup 1 ARB" tvg-logo="" group-title="Arabic",beIN Sports World Cup 1 ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/34413.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports World Cup 2 ARB" tvg-logo="" group-title="Arabic",beIN Sports World Cup 2 ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/34414.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 AR" tvg-logo="http://cdn.mypanel.tv/picon/beinsport1hd_2.png" group-title="Arabic",beIN Sports 1 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8971.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 1 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15018.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 AR" tvg-logo="" group-title="Arabic",beIN Sports 2 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8970.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 2 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15017.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 AR" tvg-logo="" group-title="Arabic",beIN Sports 3 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8969.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 3 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15016.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 AR" tvg-logo="" group-title="Arabic",beIN Sports 4 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8968.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 4 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15015.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 AR" tvg-logo="" group-title="Arabic",beIN Sports 5 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8967.ts
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 5 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15014.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 AR" tvg-logo="" group-title="Arabic",beIN Sports 6 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8966.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 6 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15013.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 AR" tvg-logo="" group-title="Arabic",beIN Sports 7 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8965.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 7 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15012.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 AR" tvg-logo="http://cdn.mypanel.tv/picon/beinsports8_2.png" group-title="Arabic",beIN Sports 8 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8964.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 8 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15011.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 AR" tvg-logo="" group-title="Arabic",beIN Sports 9 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8963.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 9 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15010.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 AR" tvg-logo="" group-title="Arabic",beIN Sports 10 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8962.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 10 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15009.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 AR" tvg-logo="" group-title="Arabic",beIN Sports 11 AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8961.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 11 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15008.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 12 HD ARB
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/15007.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD English AR" tvg-logo="" group-title="Arabic",beIN Sports 12 HD English AR
-http://mypanel.tv:8080/live/22m5mqrk1k/xiw19tzqzc/8830.ts
+#EXTM3U
+#EXTINF:0,AD Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:0,AD Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:0,Dubai Sports 1 HD
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:0,Dubai Sports 2 HD
+http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+
+#EXTINF:0,Dubai Sports 
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:0,ON  Sport
+http://62.68.66.247:8002/play/s15
+
+#EXTINF:0,beINSport 1 HD - beINSport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=178&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 2 HD - beINSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=179&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 3 HD - beINSport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=180&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 4 HD - beINSport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=181&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 5 HD - beINSport 5 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=182&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 6 HD - beINSport 6 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=183&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 7 HD - beINSport 7 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=184&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 8 HD - beINSport 8 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=185&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 9 HD - beINSport 9 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=186&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 10 HD - beINSport 10 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=187&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 11 HD - beINSport 11 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=188&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,beINSport 12 HD - beINSport 12 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=189&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,BEin Sports EPL 1 - BEin Sports EPL 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=190&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,BEin Sports EPL 2 - BEin Sports EPL 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=191&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=192&uid=2237&deviceMac=00:1A:79:4A:27:AB
+
+#EXTINF:-1,BEIN_MAX.LOW.1
+http://xtream.in:9000/live/jedda/jedda123/16766.ts
+#EXTINF:-1,BEIN_MAX.LOW.2
+http://xtream.in:9000/live/jedda/jedda123/16765.ts
+#EXTINF:-1,BEIN_MAX.1_LOW
+http://xtream.in:9000/live/jedda/jedda123/15808.ts
+#EXTINF:-1,BEIN_MAX.2_LOW
+http://xtream.in:9000/live/jedda/jedda123/15807.ts
+#EXTINF:-1,BEIN_MAX.SD.1
+http://xtream.in:9000/live/jedda/jedda123/16764.ts
+#EXTINF:-1,BEIN_MAX.SD.2
+http://xtream.in:9000/live/jedda/jedda123/16763.ts
+#EXTINF:-1,BEIN_MAX.1_SD
+http://xtream.in:9000/live/jedda/jedda123/16739.ts
+#EXTINF:-1,BEIN_MAX.2_SD
+http://xtream.in:9000/live/jedda/jedda123/16738.ts
+#EXTINF:-1,BEIN_MAX.FHD.1
+http://xtream.in:9000/live/jedda/jedda123/16762.ts
+#EXTINF:-1,BEIN_MAX.FHD.2
+http://xtream.in:9000/live/jedda/jedda123/16761.ts
+#EXTINF:-1,BEIN_MAX.1_1080p
+http://xtream.in:9000/live/jedda/jedda123/16758.ts
+#EXTINF:-1,BEIN_MAX.2_1080p
+http://xtream.in:9000/live/jedda/jedda123/16757.ts
+#EXTINF:-1,BeinSport-Low_1
+http://xtream.in:9000/live/jedda/jedda123/2315.ts
+#EXTINF:-1,BeinSport-Low_2
+http://xtream.in:9000/live/jedda/jedda123/2316.ts
+#EXTINF:-1,BeinSport-Low_3
+http://xtream.in:9000/live/jedda/jedda123/2317.ts
+#EXTINF:-1,BeinSport-Low_4
+http://xtream.in:9000/live/jedda/jedda123/2318.ts
+#EXTINF:-1,BeinSport-Low_5
+http://xtream.in:9000/live/jedda/jedda123/2319.ts
+#EXTINF:-1,BeinSport-Low_6
+http://xtream.in:9000/live/jedda/jedda123/2320.ts
+#EXTINF:-1,BeinSport-Low_7
+http://xtream.in:9000/live/jedda/jedda123/2321.ts
+#EXTINF:-1,BeinSport-Low_8
+http://xtream.in:9000/live/jedda/jedda123/2322.ts
+#EXTINF:-1,BeinSport-Low_9
+http://xtream.in:9000/live/jedda/jedda123/2323.ts
+#EXTINF:-1,BeinSport-Low_10
+http://xtream.in:9000/live/jedda/jedda123/2324.ts
+#EXTINF:-1,BEIN-SPORT.1_1080p
+http://xtream.in:9000/live/jedda/jedda123/4420.ts
+#EXTINF:-1,BEIN-SPORT.2_1080p
+http://xtream.in:9000/live/jedda/jedda123/4421.ts
+#EXTINF:-1,BEIN-SPORT.3_1080p
+http://xtream.in:9000/live/jedda/jedda123/4422.ts
+#EXTINF:-1,BEIN-SPORT.4_1080p
+http://xtream.in:9000/live/jedda/jedda123/4423.ts
+#EXTINF:-1,BEIN-SPORT.5_1080p
+http://xtream.in:9000/live/jedda/jedda123/4424.ts
+#EXTINF:-1,BEIN-SPORT.6_1080p
+http://xtream.in:9000/live/jedda/jedda123/4425.ts
+#EXTINF:-1,BEIN-SPORT.7_1080p
+http://xtream.in:9000/live/jedda/jedda123/4426.ts
+#EXTINF:-1,BEIN-SPORT.8_1080p
+http://xtream.in:9000/live/jedda/jedda123/4427.ts
+#EXTINF:-1,BEIN-SPORT.9_1080p
+http://xtream.in:9000/live/jedda/jedda123/4428.ts
+#EXTINF:-1,BEIN-SPORT.10_1080p
+http://xtream.in:9000/live/jedda/jedda123/4429.ts
+#EXTINF:-1,BEIN-SPORT.11_1080p
+http://xtream.in:9000/live/jedda/jedda123/2297.ts
+#EXTINF:-1,BEIN-SPORT.12_1080p
+http://xtream.in:9000/live/jedda/jedda123/2298.ts
+#EXTINF:-1,BEIN-SPORT-Free-1080p
+http://xtream.in:9000/live/jedda/jedda123/2299.ts
+#EXTINF:-1,BEIN-SPORT-NEW-1080p
+http://xtream.in:9000/live/jedda/jedda123/2335.ts
+#EXTINF:-1,BeinSports1 FHD
+http://xtream.in:9000/live/jedda/jedda123/10251.ts
+#EXTINF:-1,BeinSports2 FHD
+http://xtream.in:9000/live/jedda/jedda123/10250.ts
+#EXTINF:-1,BeinSports3 FHD
+http://xtream.in:9000/live/jedda/jedda123/10249.ts
+#EXTINF:-1,BeinSports4 FHD
+http://xtream.in:9000/live/jedda/jedda123/10248.ts
+#EXTINF:-1,BeinSports5 FHD
+http://xtream.in:9000/live/jedda/jedda123/10247.ts
+#EXTINF:-1,BeinSports6 FHD
+http://xtream.in:9000/live/jedda/jedda123/10246.ts
+#EXTINF:-1,BeinSports7 FHD
+http://xtream.in:9000/live/jedda/jedda123/10245.ts
+#EXTINF:-1,BeinSports8 FHD
+http://xtream.in:9000/live/jedda/jedda123/10244.ts
+#EXTINF:-1,BeinSports9 FHD
+http://xtream.in:9000/live/jedda/jedda123/10243.ts
+#EXTINF:-1,BeinSports10 FHD
+http://xtream.in:9000/live/jedda/jedda123/10242.ts
+#EXTINF:-1,BeinSport1 2M
+http://xtream.in:9000/live/jedda/jedda123/16425.ts
+#EXTINF:-1,BeinSport2 2M
+http://xtream.in:9000/live/jedda/jedda123/16424.ts
+#EXTINF:-1,BeinSport3 2M
+http://xtream.in:9000/live/jedda/jedda123/16423.ts
+#EXTINF:-1,BeinSport4 2M
+http://xtream.in:9000/live/jedda/jedda123/16422.ts
+#EXTINF:-1,BeinSport5 2M
+http://xtream.in:9000/live/jedda/jedda123/16421.ts
+#EXTINF:-1,BeinSport6 2M
+http://xtream.in:9000/live/jedda/jedda123/16420.ts
+#EXTINF:-1,BeinSport7 2M
+http://xtream.in:9000/live/jedda/jedda123/16419.ts
+#EXTINF:-1,BeinSport8 2M
+http://xtream.in:9000/live/jedda/jedda123/16418.ts
+#EXTINF:-1,BeinSport9 2M
+http://xtream.in:9000/live/jedda/jedda123/16417.ts
+#EXTINF:-1,BeinSport10 2M
+http://xtream.in:9000/live/jedda/jedda123/16416.ts
+#EXTINF:-1,Bein.1_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16662.ts
+#EXTINF:-1,Bein.2_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16661.ts
+#EXTINF:-1,Bein.3_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16660.ts
+#EXTINF:-1,Bein.4_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16659.ts
+#EXTINF:-1,Bein.5_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16658.ts
+#EXTINF:-1,Bein.6_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16657.ts
+#EXTINF:-1,Bein.7_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16656.ts
+#EXTINF:-1,Bein.8_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16655.ts
+#EXTINF:-1,Bein.9_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16654.ts
+#EXTINF:-1,Bein.10_512_1m
+http://xtream.in:9000/live/jedda/jedda123/16653.ts
+#EXTINF:-1,Bein1_2m p
+http://xtream.in:9000/live/jedda/jedda123/16652.ts
+#EXTINF:-1,Bein2_2m p
+http://xtream.in:9000/live/jedda/jedda123/16651.ts
+#EXTINF:-1,Bein3_2m p
+http://xtream.in:9000/live/jedda/jedda123/16650.ts
+#EXTINF:-1,Bein4_2m p
+http://xtream.in:9000/live/jedda/jedda123/16649.ts
+#EXTINF:-1,Bein5_2m p
+http://xtream.in:9000/live/jedda/jedda123/16648.ts
+#EXTINF:-1,Bein6_2m p
+http://xtream.in:9000/live/jedda/jedda123/16647.ts
+#EXTINF:-1,Bein7_2m p
+http://xtream.in:9000/live/jedda/jedda123/16646.ts
+#EXTINF:-1,Bein8_2m p
+http://xtream.in:9000/live/jedda/jedda123/16645.ts
+#EXTINF:-1,Bein9_2m p
+http://xtream.in:9000/live/jedda/jedda123/16644.ts
+#EXTINF:-1,BeinSport 1HD
+http://xtream.in:9000/live/jedda/jedda123/16697.ts
+#EXTINF:-1,BeinSport 2HD
+http://xtream.in:9000/live/jedda/jedda123/16696.ts
+#EXTINF:-1,BeinSport 3HD
+http://xtream.in:9000/live/jedda/jedda123/16695.ts
+#EXTINF:-1,BeinSport 4HD
+http://xtream.in:9000/live/jedda/jedda123/16694.ts
+#EXTINF:-1,BeinSport 5HD
+http://xtream.in:9000/live/jedda/jedda123/16693.ts
+#EXTINF:-1,BeinSport 6HD
+http://xtream.in:9000/live/jedda/jedda123/16692.ts
+#EXTINF:-1,BeinSport 7HD
+http://xtream.in:9000/live/jedda/jedda123/16691.ts
+#EXTINF:-1,BeinSport 8HD
+http://xtream.in:9000/live/jedda/jedda123/16690.ts
+#EXTINF:-1,BeinSport 9HD
+http://xtream.in:9000/live/jedda/jedda123/16689.ts
+#EXTINF:-1,BeinSport 10HD
+http://xtream.in:9000/live/jedda/jedda123/16688.ts
+#EXTINF:-1,BeinSport-SD1
+http://xtream.in:9000/live/jedda/jedda123/2287.ts
+#EXTINF:-1,BeinSport-SD2
+http://xtream.in:9000/live/jedda/jedda123/2288.ts
+#EXTINF:-1,BeinSport-SD3
+http://xtream.in:9000/live/jedda/jedda123/2289.ts
+#EXTINF:-1,BeinSport-SD4
+http://xtream.in:9000/live/jedda/jedda123/2290.ts
+#EXTINF:-1,BeinSport-SD5
+http://xtream.in:9000/live/jedda/jedda123/2291.ts
+#EXTINF:-1,BeinSport-SD6
+http://xtream.in:9000/live/jedda/jedda123/2292.ts
+#EXTINF:-1,BeinSport-SD7
+http://xtream.in:9000/live/jedda/jedda123/2293.ts
+#EXTINF:-1,BeinSport-SD8
+http://xtream.in:9000/live/jedda/jedda123/2294.ts
+#EXTINF:-1,BeinSport-SD9
+http://xtream.in:9000/live/jedda/jedda123/2295.ts
+#EXTINF:-1,BeinSport-SD10
+http://xtream.in:9000/live/jedda/jedda123/2296.ts
+#EXTINF:-1,BeinSport-1 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2325.ts
+#EXTINF:-1,BeinSport-2 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2326.ts
+#EXTINF:-1,BeinSport-3 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2327.ts
+#EXTINF:-1,BeinSport-4 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2328.ts
+#EXTINF:-1,BeinSport-5 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2329.ts
+#EXTINF:-1,BeinSport-6 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2330.ts
+#EXTINF:-1,BeinSport-7 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2331.ts
+#EXTINF:-1,BeinSport-8 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2332.ts
+#EXTINF:-1,BeinSport-9 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2333.ts
+#EXTINF:-1,BeinSport-10 FUL HD
+http://xtream.in:9000/live/jedda/jedda123/2334.ts
+
 #EXTINF:-1,AR:BEINSPORTS-1 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1.ts
 #EXTINF:-1,AR:BEINSPORTS-10 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/249.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/249.ts
 #EXTINF:-1,AR:BEINSPORTS-2 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/2.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/2.ts
 #EXTINF:-1,AR:BEINSPORTS-3 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/3.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/3.ts
 #EXTINF:-1,AR:BEINSPORTS-4 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/4.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/4.ts
 #EXTINF:-1,AR:BEINSPORTS-5 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/5.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/5.ts
 #EXTINF:-1,AR:BEINSPORTS-6 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/6.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/6.ts
 #EXTINF:-1,AR:BEINSPORTS-7 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/7.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/7.ts
 #EXTINF:-1,AR:BEINSPORTS-8 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/8.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/8.ts
 #EXTINF:-1,AR:BEINSPORTS-9 HD
-http://arabapps.live:8000/live/36031528540334/36031528540334/9.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/9.ts
 #EXTINF:-1,BEINSPORT 1Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/627.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/627.ts
 #EXTINF:-1,BEINSPORT 2Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/626.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/626.ts
 #EXTINF:-1,BEINSPORT 3Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/625.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/625.ts
 #EXTINF:-1,BEINSPORT 4Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/624.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/624.ts
 #EXTINF:-1,BEINSPORT 5Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/623.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/623.ts
 #EXTINF:-1,BEINSPORT 6Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/622.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/622.ts
 #EXTINF:-1,BEINSPORT 7Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/621.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/621.ts
 #EXTINF:-1,BEINSPORT 8Low
-http://arabapps.live:8000/live/36031528540334/36031528540334/620.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/620.ts
 #EXTINF:-1,AR:BEINSPORTS-1 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1130.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1130.ts
 #EXTINF:-1,AR:BEINSPORTS-2 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1129.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1129.ts
 #EXTINF:-1,AR:BEINSPORTS-3 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1128.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1128.ts
 #EXTINF:-1,AR:BEINSPORTS-4 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1127.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1127.ts
 #EXTINF:-1,AR:BEINSPORTS-5 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1126.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1126.ts
 #EXTINF:-1,AR:BEINSPORTS-6 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1125.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1125.ts
 #EXTINF:-1,AR:BEINSPORTS-7 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1124.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1124.ts
 #EXTINF:-1,AR:BEINSPORTS-8 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1123.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1123.ts
 #EXTINF:-1,AR:BEINSPORTS-9 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1122.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1122.ts
 #EXTINF:-1,AR:BEINSPORTS-10 SD
-http://arabapps.live:8000/live/36031528540334/36031528540334/1121.ts
-#EXTINF:-1,AR: BeinSports SD 1
-http://217.182.173.184:8000/live/asil/1234/10701.ts
-#EXTINF:-1,AR: BeinSports SD 2
-http://217.182.173.184:8000/live/asil/1234/10702.ts
-#EXTINF:-1,AR: BeinSports SD 3
-http://217.182.173.184:8000/live/asil/1234/10703.ts
-#EXTINF:-1,AR: BeinSports SD 4
-http://217.182.173.184:8000/live/asil/1234/10704.ts
-#EXTINF:-1,AR: BeinSports SD 5
-http://217.182.173.184:8000/live/asil/1234/10705.ts
-#EXTINF:-1,AR: BeinSports SD 6
-http://217.182.173.184:8000/live/asil/1234/10706.ts
-#EXTINF:-1,AR: BeinSports SD 7
-http://217.182.173.184:8000/live/asil/1234/10707.ts
-#EXTINF:-1,AR: BeinSports SD 8
-http://217.182.173.184:8000/live/asil/1234/10708.ts
-#EXTINF:-1,AR: beIN SPORTS 9 HD
-http://217.182.173.184:8000/live/asil/1234/10785.ts
-#EXTINF:-1,AR: beIN SPORTS 10 HD
-http://217.182.173.184:8000/live/asil/1234/10783.ts
-#EXTINF:-1,AR: beIN SPORTS 11 HD
-http://217.182.173.184:8000/live/asil/1234/10782.ts
-#EXTINF:-1,AR: beIN SPORTS 12 HD
-http://217.182.173.184:8000/live/asil/1234/10784.ts
+http://arabapps.live:8000/live/84671528633448/84671528633448/1121.ts
+
 #EXTINF:-1,AR: BEIN SPORT 1
 http://217.182.173.184:8000/live/asil/1234/17.ts
 #EXTINF:-1,AR: BEIN SPORT 2
@@ -142,3 +341,11 @@ http://217.182.173.184:8000/live/asil/1234/15.ts
 http://217.182.173.184:8000/live/asil/1234/14.ts
 #EXTINF:-1,AR: BEIN SPORT 5
 http://217.182.173.184:8000/live/asil/1234/13.ts
+#EXTINF:-1,AR: beIN SPORTS 9 HD
+http://217.182.173.184:8000/live/asil/1234/10785.ts
+#EXTINF:-1,AR: beIN SPORTS 10 HD
+http://217.182.173.184:8000/live/asil/1234/10783.ts
+#EXTINF:-1,AR: beIN SPORTS 11 HD
+http://217.182.173.184:8000/live/asil/1234/10782.ts
+#EXTINF:-1,AR: beIN SPORTS 12 HD
+http://217.182.173.184:8000/live/asil/1234/10784.ts

@@ -1,0 +1,51 @@
+#EXTINF:0,AMC (US) - AMC (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=242&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,Animal Planet (US) - Animal Planet (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=243&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=244&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,Discovery (US) - Discovery (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=245&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=246&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=247&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,FOX NEWS - FOX NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=248&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,FX (US) - FX (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=249&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,HISTORY (US) - HISTORY (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=250&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,MBL NETWORK (US) - MBL NETWORK (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=251&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SPIKE (US) - SPIKE (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=253&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SYFY (US) - SYFY (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=254&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,TBS (US) - TBS (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=255&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,WWE Network - WWE Network
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=256&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,BBC NEWS - BBC NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=257&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,CNN NEWS - CNN NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=258&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SKY NEWS - SKY NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=259&uid=2237&deviceMac=00:1A:79:4A:27:AB

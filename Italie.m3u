@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:0,----------------ITALIA
+
+#EXTINF:0,Rai 1
+http://86.82.79.91:9440/play/a00l
+
+#EXTINF:0,Rai 2
+http://95.107.132.104/out/u/63_1.m3u8
+
+#EXTINF:0,Rai 2
+http://5.135.92.130:58143/out/u/63_1.m3u8
+
+#EXTINF:0,Rai 3
+http://5.135.92.130:58143/out/u/67_1.m3u8
+
+#EXTINF:0,Rai 4 
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+#EXTINF:0,Rai 4 HD
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+
+#EXTINF:0,Rai Movie HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,Rai Movie HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:0,Rai Premium HD
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,Rai Scuola
+http://originstream6.rai.it:80/italy/raiscuola.smil/chunklist_b900000.m3u8
+
+#EXTINF:0,RAI YoYo HD
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:0,RAI Gulp HD
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:0,Rai News24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+
+#EXTINF:0,TV 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:0,TOP CRIME 
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
+
+#EXTINF:0,TOP CRIME
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(03)/index.m3u8
+
+#EXTINF:0,IRIS
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/index.m3u8
+
+#EXTINF:0,LA 5
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
+
+#EXTINF:0,RETE 4
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
+
+#EXTINF:0,RETE 5
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
+
+#EXTINF:0,ITALIA MEDIASAT 1
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(03)/index.m3u8
+
+#EXTINF:0,ITALIA MEDIASAT 1
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(03)/index.m3u8
+
+#EXTINF:0,ITALIA MEDIASAT 2
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
+
+#EXTINF:0,ITALIA MEDIASAT 5
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
+
+#EXTINF:0,ITALIA 2
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+
+#EXTINF:0,CANALE 7
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+
+#EXTINF:0,CANALE 8
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+
+#EXTINF:0,CANALE 7 (rtmp)
+rtmp://wms.shared.streamshow.it:80/canale7/canale7
+
+#EXTINF:0,CANALE 8 (rtmp)
+rtmp://wms.shared.streamshow.it:80/canale8/canale8
+
+#EXTINF:0,Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+
+#EXTINF:0,SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8

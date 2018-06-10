@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:0,--------------------------GERMANIA
+
+#EXTINF:0,ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,DAS ERSTE
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8
+
+#EXTINF:0,DAS ERSTE
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
+#EXTINF:0,DAS ERSTE
+http://live-lh.daserste.de/i/daserste_de@91204/master.m3u8
+
+#EXTINF:0,ZDF
+#EXTVLCOPT:network-caching=1000
+http://62.143.229.214:9981/stream/channelid/1558967220?ticket=B72FD9D3DDC094215E9240C10ACF7CCE7F73A295&profile=pass
+
+#EXTINF:0,BR HD
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+
+#EXTINF:0,RTL
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/658/index.m3u8
+
+#EXTINF:0,RTL 2
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/659/index.m3u8
+
+#EXTINF:0,RTL
+http://5.135.92.130:58143/out/u/115_1.m3u8
+#EXTINF:0,RTL 2
+http://5.135.92.130:58143/out/u/119_1.m3u8
+#EXTINF:0,RTL 2
+http://95.107.132.104/out/u/119_1.m3u8
+
+#EXTINF:0,RTL SUPER
+http://5.135.92.130:58143/out/u/127_1.m3u8
+
+#EXTINF:0,RTL SUPER
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/660/index.m3u8
+
+#EXTINF:0,RTL PLUS
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/663/index.m3u8
+
+#EXTINF:0,RTL NITRO
+http://146.0.142.39:9981/stream/channelid/1650063102?ticket=C83405BC6D82900D6C720BB781AA993B5591D8A9&profile=pass
+
+#EXTINF:0,RTL NITRO
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/662/index.m3u8
+
+#EXTINF:0,RTL PASSION
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/721/index.m3u8
+
+#EXTINF:0,RTL PASSION
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/722/index.m3u8
+
+#EXTINF:0,RTL CRIME
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/719/index.m3u8
+
+#EXTINF:0,RTL CRIME
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/720/index.m3u8
+
+#EXTINF:0,RTL CRIME HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09473%09/index.m3u8
+
+#EXTINF:0,SAT 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09483%09/index.m3u8
+
+#EXTINF:0,VOX
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/661/index.m3u8
+
+#EXTINF:0,VOX
+http://5.135.92.130:58143/out/u/123_1.m3u8
+
+#EXTINF:0,VOX HD
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/455/index.m3u8
+
+#EXTINF:0,kabel eins
+http://146.0.142.39:9981/stream/channelid/33145653?ticket=F235D73B2BB28470634A15D604331D30D568025D&profile=pass
+
+#EXTINF:0,ProSieben HD
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/641/index.m3u8
+
+#EXTINF:0,ProSieben
+http://146.0.142.39:9981/stream/channelid/1386714623?ticket=DA3C5B8C47A7477E4F5B90F2C54690AB572E53DD&profile=pass
+
+#EXTINF:0,Pro7 MAXX
+http://146.0.142.39:9981/stream/channelid/2072662228?ticket=DF8B6235DDE8A279B7278A08FC588225F6D4B154&profile=pass
+
+#EXTINF:0,ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+
+#EXTINF:0,ANIXE SD
+http://146.0.142.39:9981/stream/channelid/1692861119?ticket=769BDC5D9279B729EFA6831CC0B70847B8229032&profile=pass
+
+#EXTINF:0,DMAX
+http://146.0.142.39:9981/stream/channelid/739412482?ticket=62186855396C1D5A2A78261F97D496554A1FD330&profile=pass
+
+#EXTINF:0,ORF 1 HD
+http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
+
+#EXTINF:0,ORF 2 HD
+http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
+
+#EXTINF:0,ORF 2 HD
+http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/chunklist.m3u8
+
+#EXTINF:0,ORF 3 HD
+http://orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
+
+#EXTINF:0,ORF SPORT +
+http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
+
+#EXTINF:0,FOX HD (DE)
+http://playlist.onlybest.tv/ru/channel/b3776127afcd9f95405b2b17362a8ceb/478/index.m3u8
+
+#EXTINF:0,FOX HD (DE)
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/478/index.m3u8
+
+#EXTINF:0,TNT FILM
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/741/index.m3u8
+
+#EXTINF:0,TNT SERIE
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/752/index.m3u8
+
+#EXTINF:0,FOX HD (EN)
+http://playlist.onlybest.tv/ru/channel/b3776127afcd9f95405b2b17362a8ceb/479/index.m3u8
+
+#EXTINF:0,13 STREET
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/734/index.m3u8
+
+#EXTINF:0,KINO WELT.TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/726/index.m3u8
+
+#EXTINF:0,SKY ACTION  
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/700/index.m3u8
+
+#EXTINF:0,SKY CINEMA FAMILY
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/711/index.m3u8
+
+#EXTINF:0,SKY ATLANTIC 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/729/index.m3u8
+
+#EXTINF:0,SKY
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/727/index.m3u8
+
+#EXTINF:0,SKY CINEMA + 1HD
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/705/index.m3u8
+
+#EXTINF:0,SKY CINEMA + 24 HD
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/706/index.m3u8
+
+#EXTINF:0,SKY CINEMA + 24
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/707/index.m3u8
+
+#EXTINF:0,DISNEY CINEMAGIC
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/730/index.m3u8
+
+#EXTINF:0,NICK JUNIOR
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09429%09/index.m3u8
+
+#EXTINF:0,NICK JUNIOR
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/445/index.m3u8
+
+#EXTINF:0,NICK JUNIOR
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09445%09/index.m3u8
+
+#EXTINF:0,DISNEY JUNIOR HD
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/709/index.m3u8
+
+#EXTINF:0,COMEDY CENTRAL
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09431%09/index.m3u8
+
+#EXTINF:0,NATIONAL GEOGRAPHIG HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/731/index.m3u8
+
+#EXTINF:0,NATIONAL GEOGRAPHIG HD
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/732/index.m3u8
+
+#EXTINF:0,NATIONAL GEOGRAPHIG WILD HD
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/736/index.m3u8
+
+#EXTINF:0,WELT
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09447%09/index.m3u8
+
+#EXTINF:0,Welt der Wunder 
+http://live.vidoo.de/live/weltderwunder/master.m3u8
+
+#EXTINF:0,SERVUS TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09438%09/index.m3u8
+
+#EXTINF:0,ONE HD
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-b.m3u8?sd=10&rebase=on 
+
+#EXTINF:0,MÜNCHEN TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+
+#EXTINF:0,MÜNCHEN TV HD
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u
+
+#EXTINF:0,EO TV HD
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+
+#EXTINF:0,NDR HD
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+
+#EXTINF:0,WDR HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+
+#EXTINF:0,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+
+#EXTINF:0,WDR HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:0,HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_1800_av-p.m3u8
+
+#EXTINF:0,TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+
+#EXTINF:0,DELUX
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/%09439%09/index.m3u8
+
+#EXTINF:0,AUGSBURGER TV
+http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+
+#EXTINF:0,RAN 1
+http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+
+#EXTINF:0,FAMILY TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+
+#EXTINF:0,BLIZZ
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+
+#EXTINF:0,DW-TV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:0,ANIXE SD
+http://146.0.142.39:9981/stream/channelid/1692861119?ticket=E0C3BBAED03162C159A4B24924984F755CA61D1F&profile=pass
+#EXTINF:0,Comedy Central/VIVA
+http://146.0.142.39:9981/stream/channelid/1621076860?ticket=9655802C40BB0153DE09090A73BAE8F4A2D1DD90&profile=pass
+#EXTINF:0,Disney Channel
+http://146.0.142.39:9981/stream/channelid/306451329?ticket=5740DB0E1FD4D0EB7F051026A7180C3FAE6B2AF3&profile=pass
+#EXTINF:0,DMAX
+http://146.0.142.39:9981/stream/channelid/739412482?ticket=EB0FF51A02B2E3D35F1C6836FF47AFFA27A8BE94&profile=pass
+#EXTINF:0,kabel eins
+http://146.0.142.39:9981/stream/channelid/33145653?ticket=F235D73B2BB28470634A15D604331D30D568025D&profile=pass
+#EXTINF:0,n-tv
+http://146.0.142.39:9981/stream/channelid/60645876?ticket=99D5E2A8E7C4C3D5ECBF52E17E87DFD45FEBC6A3&profile=pass
+#EXTINF:0,Nickelodeon
+http://146.0.142.39:9981/stream/channelid/2111290135?ticket=0F2A8F3C7F078096A864536856B8BA83885FBF84&profile=pass
+#EXTINF:0,NITRO
+http://146.0.142.39:9981/stream/channelid/1650063102?ticket=C83405BC6D82900D6C720BB781AA993B5591D8A9&profile=pass
+
+#EXTINF:0,ProSieben
+http://146.0.142.39:9981/stream/channelid/1386714623?ticket=DA3C5B8C47A7477E4F5B90F2C54690AB572E53DD&profile=pass
+#EXTINF:0,Pro7 MAXX
+http://146.0.142.39:9981/stream/channelid/2072662228?ticket=DF8B6235DDE8A279B7278A08FC588225F6D4B154&profile=pass
+
+#EXTINF:0,RTL Television
+http://146.0.142.39:9981/stream/channelid/489070922?ticket=6693885366EAFA5A5FF822FB4B9C220FF106ED37&profile=pass
+#EXTINF:0,RTL2
+http://146.0.142.39:9981/stream/channelid/1170437801?ticket=6B93F8B475E489C79920B53F6561D1445464397C&profile=pass
+#EXTINF:0,RTLplus
+http://146.0.142.39:9981/stream/channelid/1762357711?ticket=AEC869389CE31F3A353A4BAE0F33D6CE3EC91180&profile=pass
+#EXTINF:0,SAT.1
+http://146.0.142.39:9981/stream/channelid/2040989539?ticket=FA5C794B10C9E2BFFE78BC66307F65964E3955E1&profile=pass
+#EXTINF:0,SAT.1 Gold
+http://146.0.142.39:9981/stream/channelid/860149774?ticket=9DBCBE9C93326936445D45059A1DE2AB323958EB&profile=pass
+#EXTINF:0,SIXX
+http://146.0.142.39:9981/stream/channelid/368946892?ticket=AC82EF7EE0DB798C7E3B918ABD74EC158B58D5B1&profile=pass
+#EXTINF:0,SPORT1
+http://146.0.142.39:9981/stream/channelid/827090478?ticket=CB722379B7EC669835844C3CB3FE2206D1D0CBD4&profile=pass
+#EXTINF:0,SUPER RTL
+http://146.0.142.39:9981/stream/channelid/2018212027?ticket=AF7493B7C589874EDFB5774634AD16AFF11BC8E9&profile=pass
+#EXTINF:0,TELE 5
+http://146.0.142.39:9981/stream/channelid/748312616?ticket=ED47AD9864A13DF2118A37AAD717331EB8D6BE24&profile=pass
+#EXTINF:0,TLC
+http://146.0.142.39:9981/stream/channelid/2047463725?ticket=48C3B60C39F6356DE3A2BB17A530B47871C6733B&profile=pass
+#EXTINF:0,TOGGO plus
+http://146.0.142.39:9981/stream/channelid/1832997969?ticket=96C28D1836C4F63FBF6D04B871D0A6BFF21AE652&profile=pass
+#EXTINF:0,VOX
+http://146.0.142.39:9981/stream/channelid/1876033091?ticket=ED1455C92E86A8AEC6F8363F42A72BCBD108BF6B&profile=pass
+#EXTINF:0,WELT
+http://146.0.142.39:9981/stream/channelid/167665004?ticket=A152409AB14870F5D04B02DD0E6EC30658901CBD&profile=pass

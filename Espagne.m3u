@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:0,--------------ESPANIOL
+
+
+#EXTINF:0,CSPAN 1
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,CSPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:0,CSPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,#0
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/611/index.m3u8
+
+#EXTINF:0,AMC
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
+
+#EXTINF:0,NOVA
+http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/602/index.m3u8
+
+#EXTINF:0,ANTENA 3 HD
+http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/615/index.m3u8
+
+#EXTINF:0,NEOX
+http://163.172.52.83:8000/live/Vdh9g0AE1AA5F7u/1rFoFno8SexvEwD/517.ts
+
+#EXTINF:0,LA SEXTA 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/618/index.m3u8
+
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+
+#EXTINF:0,TV 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+
+#EXTINF:0,AXN
+http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/610/index.m3u8
+
+#EXTINF:0,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+
+#EXTINF:0,AXN WHITE
+http://tv.maltaip.com:8080/live/hvEBDEXPtH/LAxJIvI0SD/1051.ts
+
+#EXTINF:0,8TV
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+
+#EXTINF:0,8TV
+http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8
+
+#EXTINF:0,A 7
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:0,HOLLYWOOD HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/577/index.m3u8
+
+#EXTINF:0,CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:0,Comedy Central España HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/572/index.m3u8
+
+#EXTINF:0,Envivo loco
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+        
+#EXTINF:0,Carina TV
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
