@@ -62,113 +62,108 @@ http://163.172.105.25:80/live?channelId=191&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
 #EXTVLCOPT:network-caching=1000
 http://163.172.105.25:80/live?channelId=192&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1,============= BeIN Channels =============
+http://80.211.189.193/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
+#EXTINF:-1,..:: BEIN SPORTS 4K ::..
+http://80.211.189.193/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 1 4K
+http://80.211.189.193/live/get.php?stream=27&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 2 4K
+http://80.211.189.193/live/get.php?stream=28&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 3 4K
+http://80.211.189.193/live/get.php?stream=29&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 4 4K
+http://80.211.189.193/live/get.php?stream=30&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 5 4K
+http://80.211.189.193/live/get.php?stream=31&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 6 4K
+http://80.211.189.193/live/get.php?stream=32&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 7 4K
+http://80.211.189.193/live/get.php?stream=33&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 8 4K
+http://80.211.189.193/live/get.php?stream=34&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 1 4K
+http://80.211.189.193/live/get.php?stream=39&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 2 4K
+http://80.211.189.193/live/get.php?stream=40&username=67707200046526&password=67707200046526
+#EXTINF:-1,..:: BEIN SPORTS HD ::..
+http://80.211.189.193/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://80.211.189.193/live/get.php?stream=17&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://80.211.189.193/live/get.php?stream=18&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://80.211.189.193/live/get.php?stream=19&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://80.211.189.193/live/get.php?stream=20&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://80.211.189.193/live/get.php?stream=21&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://80.211.189.193/live/get.php?stream=22&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://80.211.189.193/live/get.php?stream=23&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://80.211.189.193/live/get.php?stream=24&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://80.211.189.193/live/get.php?stream=25&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://80.211.189.193/live/get.php?stream=26&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 1 HD
+http://80.211.189.193/live/get.php?stream=39&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 2 HD
+http://80.211.189.193/live/get.php?stream=40&username=67707200046526&password=67707200046526
+#EXTINF:-1,..:: BEIN SPORTS SD ::..
+http://80.211.189.193/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://80.211.189.193/live/get.php?stream=9&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://80.211.189.193/live/get.php?stream=10&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://80.211.189.193/live/get.php?stream=11&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://80.211.189.193/live/get.php?stream=12&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://80.211.189.193/live/get.php?stream=13&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://80.211.189.193/live/get.php?stream=14&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://80.211.189.193/live/get.php?stream=15&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS 8 SD
+http://80.211.189.193/live/get.php?stream=16&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 1 SD
+http://80.211.189.193/live/get.php?stream=126&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 2 SD
+http://80.211.189.193/live/get.php?stream=127&username=67707200046526&password=67707200046526
+#EXTINF:-1,..:: BEINSPORT Low ::..
+http://80.211.189.193/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 1 Low
+http://80.211.189.193/live/get.php?stream=1&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 2 Low
+http://80.211.189.193/live/get.php?stream=2&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 3 Low
+http://80.211.189.193/live/get.php?stream=3&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 4 Low
+http://80.211.189.193/live/get.php?stream=4&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 5 Low
+http://80.211.189.193/live/get.php?stream=5&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 6 Low
+http://80.211.189.193/live/get.php?stream=6&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 7 Low
+http://80.211.189.193/live/get.php?stream=7&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEINSPORT 8 Low
+http://80.211.189.193/live/get.php?stream=8&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 1 Low
+http://80.211.189.193/live/get.php?stream=126&username=67707200046526&password=67707200046526
+#EXTINF:-1,BEIN SPORTS MAX 2 Low
+http://80.211.189.193/live/get.php?stream=127&username=67707200046526&password=67707200046526
+#EXTINF:-1,..:: BeIN MOVIES HD::..
+http://80.211.189.193/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
+#EXTINF:-1,BeIN MOVIES 1 HD
+http://80.211.189.193/live/get.php?stream=35&username=67707200046526&password=67707200046526
+#EXTINF:-1,BeIN MOVIES 2 HD
+http://80.211.189.193/live/get.php?stream=36&username=67707200046526&password=67707200046526
+#EXTINF:-1,BeIN MOVIES 3 HD
+http://80.211.189.193/live/get.php?stream=37&username=67707200046526&password=67707200046526
+#EXTINF:-1,BeIN MOVIES 4 HD
+http://80.211.189.193/live/get.php?stream=38&username=67707200046526&password=67707200046526
 
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Channels",beiN Sports News
-http://omega.ws:9300/live/hajyassine/t437roe46j/3363.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Beinsport Global
-http://omega.ws:9300/live/hajyassine/t437roe46j/3362.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 1 HD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4596.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 1 SD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4597.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 2 HD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4598.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 2 SD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4599.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 3 HD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4617.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 3 SD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4618.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 4 HD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4619.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD CUP 4 SD
-http://omega.ws:9300/live/hajyassine/t437roe46j/4620.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT MAX1
-http://omega.ws:9300/live/hajyassine/t437roe46j/4631.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT MAX2
-http://omega.ws:9300/live/hajyassine/t437roe46j/4632.ts
-
-#EXTINF:-1,beIN SPORTS 1 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21934.ts
-#EXTINF:-1,beIN SPORTS 1 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21916.ts
-#EXTINF:-1,beIN SPORTS 1 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21924.ts
-#EXTINF:-1,beIN SPORTS 2 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21917.ts
-#EXTINF:-1,beIN SPORTS 2 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21925.ts
-#EXTINF:-1,beIN SPORTS 2 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21935.ts
-#EXTINF:-1,beIN SPORTS 3 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21918.ts
-#EXTINF:-1,beIN SPORTS 3 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21926.ts
-#EXTINF:-1,beIN SPORTS 3 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21936.ts
-#EXTINF:-1,beIN SPORTS 4 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21919.ts
-#EXTINF:-1,beIN SPORTS 4 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21927.ts
-#EXTINF:-1,beIN SPORTS 4 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21937.ts
-#EXTINF:-1,beIN SPORTS 5 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21920.ts
-#EXTINF:-1,beIN SPORTS 5 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21928.ts
-#EXTINF:-1,beIN SPORTS 5 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21938.ts
-#EXTINF:-1,beIN SPORTS 6 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21921.ts
-#EXTINF:-1,beIN SPORTS 6 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21929.ts
-#EXTINF:-1,beIN SPORTS 6 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21939.ts
-#EXTINF:-1,beIN SPORTS 7 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21922.ts
-#EXTINF:-1,beIN SPORTS 7 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21930.ts
-#EXTINF:-1,beIN SPORTS 7 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21940.ts
-#EXTINF:-1,beIN SPORTS 8 FHD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21923.ts
-#EXTINF:-1,beIN SPORTS 8 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21931.ts
-#EXTINF:-1,beIN SPORTS 8 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21941.ts
-#EXTINF:-1,beIN SPORTS 9 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21932.ts
-#EXTINF:-1,beIN SPORTS 9 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21942.ts
-#EXTINF:-1,beIN SPORTS 10 HD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21933.ts
-#EXTINF:-1,beIN SPORTS 10 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21943.ts
-#EXTINF:-1,beIN SPORTS 12 SD [backup] ARB
-http://clientportal.link:80/live/Petko/123456/21944.ts
-#EXTINF:-1,Algérie 3 (Thalitha TV) DZ
-http://clientportal.link:80/live/Petko/123456/21950.ts
-#EXTINF:-1,beIN SPORTS MAX 1 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22157.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD ARB
-http://clientportal.link:80/live/Petko/123456/22158.ts
-#EXTINF:-1,beIN SPORTS MAX 1 SD ARB
-http://clientportal.link:80/live/Petko/123456/22159.ts
-#EXTINF:-1,beIN SPORTS MAX 2 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22160.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD ARB
-http://clientportal.link:80/live/Petko/123456/22161.ts
-#EXTINF:-1,beIN SPORTS MAX 2 SD ARB
-http://clientportal.link:80/live/Petko/123456/22162.ts
-#EXTINF:-1,beIN SPORTS MAX 3 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22163.ts
-#EXTINF:-1,beIN SPORTS MAX 3 HD ARB
-http://clientportal.link:80/live/Petko/123456/22164.ts
-#EXTINF:-1,beIN SPORTS MAX 3 SD ARB
-http://clientportal.link:80/live/Petko/123456/22165.ts
-#EXTINF:-1,beIN SPORTS MAX 4 FHD ARB
-http://clientportal.link:80/live/Petko/123456/22166.ts
-#EXTINF:-1,beIN SPORTS MAX 4 HD ARB
-http://clientportal.link:80/live/Petko/123456/22167.ts
-#EXTINF:-1,beIN SPORTS MAX 4 SD ARB
-http://clientportal.link:80/live/Petko/123456/22168.ts
