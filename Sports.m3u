@@ -62,6 +62,38 @@ http://163.172.105.25:80/live?channelId=191&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
 #EXTVLCOPT:network-caching=1000
 http://163.172.105.25:80/live?channelId=192&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1,beIN Sports FullHD 1 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/24.ts
+#EXTINF:-1,beIN Sports FullHD 2 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/25.ts
+#EXTINF:-1,beIN Sports FullHD 3 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/26.ts
+#EXTINF:-1,beIN Sports HD 1 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/27.ts
+#EXTINF:-1,beIN Sports HD 2 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/28.ts
+#EXTINF:-1,beIN Sports HD 3 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/29.ts
+#EXTINF:-1,beIN Sports SD 1 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/30.ts
+#EXTINF:-1,beIN Sports SD 2 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/31.ts
+#EXTINF:-1,beIN Sports Low 1 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/32.ts
+#EXTINF:-1,beIN Sports Low 2 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/33.ts
+#EXTINF:-1,beIN Sports VeryLow 1 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/34.ts
+#EXTINF:-1,beIN Sports VeryLow 2 MAX
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/35.ts
+#EXTINF:-1,beIN Sports 1 MAX (Radio)
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/36.ts
+#EXTINF:-1,beIN Sports 2 MAX (Radio)
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/37.ts
+#EXTINF:-1,beIN Sports 3 MAX (Radio)
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/38.ts
+#EXTINF:-1,Zdf
+http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/39.ts
 #EXTINF:-1,AR:BEINSPORTS-1 HD
 http://arabapps.live:8000/live/69081529072676/69081529072676/1.ts
 #EXTINF:-1,AR:BEINSPORTS-10 HD
