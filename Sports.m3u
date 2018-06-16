@@ -17,140 +17,57 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:0,ON  Sport
 http://62.68.66.247:8002/play/s15
 
+#EXTINF:-1,BEIN SPORTS MAX 1
+http://iptv-janberyan.cf:8888/live/webmax/webmax4467/1186.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 2
+http://iptv-janberyan.cf:8888/live/webmax/webmax4467/1187.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 3
+http://iptv-janberyan.cf:8888/live/webmax/webmax4467/1188.m3u8
+#EXTINF:-1,BEIN SPORTS MAX 4
+http://iptv-janberyan.cf:8888/live/webmax/webmax4467/1189.m3u8
+
 #EXTINF:0,beINSport 1 HD - beINSport 1 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=178&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=178&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 2 HD - beINSport 2 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=179&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=179&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 3 HD - beINSport 3 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=180&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=180&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 4 HD - beINSport 4 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=181&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=181&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 5 HD - beINSport 5 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=182&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=182&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 6 HD - beINSport 6 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=183&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=183&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 7 HD - beINSport 7 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=184&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=184&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 8 HD - beINSport 8 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=185&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=185&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 9 HD - beINSport 9 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=186&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=186&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 10 HD - beINSport 10 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=187&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=187&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 11 HD - beINSport 11 HD
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=188&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=188&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,beINSport 12 HD - beINSport 12 HD
 #EXTVLCOPT:network-caching=1000
 http://163.172.105.25:80/live?channelId=189&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:0,BEin Sports EPL 1 - BEin Sports EPL 1
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=190&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=190&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,BEin Sports EPL 2 - BEin Sports EPL 2
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=191&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://163.172.105.25:80/live?channelId=191&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
 #EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=192&uid=4292&deviceMac=00:1a:79:3c:c0:9c
-#EXTINF:-1,beIN Sports FullHD 1 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/24.ts
-#EXTINF:-1,beIN Sports FullHD 2 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/25.ts
-#EXTINF:-1,beIN Sports FullHD 3 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/26.ts
-#EXTINF:-1,beIN Sports HD 1 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/27.ts
-#EXTINF:-1,beIN Sports HD 2 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/28.ts
-#EXTINF:-1,beIN Sports HD 3 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/29.ts
-#EXTINF:-1,beIN Sports SD 1 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/30.ts
-#EXTINF:-1,beIN Sports SD 2 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/31.ts
-#EXTINF:-1,beIN Sports Low 1 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/32.ts
-#EXTINF:-1,beIN Sports Low 2 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/33.ts
-#EXTINF:-1,beIN Sports VeryLow 1 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/34.ts
-#EXTINF:-1,beIN Sports VeryLow 2 MAX
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/35.ts
-#EXTINF:-1,beIN Sports 1 MAX (Radio)
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/36.ts
-#EXTINF:-1,beIN Sports 2 MAX (Radio)
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/37.ts
-#EXTINF:-1,beIN Sports 3 MAX (Radio)
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/38.ts
-#EXTINF:-1,Zdf
-http://31.220.50.230:8000/live/cupworld15-06/cupworld15-06/39.ts
-#EXTINF:-1,AR:BEINSPORTS-1 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1.ts
-#EXTINF:-1,AR:BEINSPORTS-10 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/249.ts
-#EXTINF:-1,AR:BEINSPORTS-2 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/2.ts
-#EXTINF:-1,AR:BEINSPORTS-3 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/3.ts
-#EXTINF:-1,AR:BEINSPORTS-4 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/4.ts
-#EXTINF:-1,AR:BEINSPORTS-5 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/5.ts
-#EXTINF:-1,AR:BEINSPORTS-6 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/6.ts
-#EXTINF:-1,AR:BEINSPORTS-7 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/7.ts
-#EXTINF:-1,AR:BEINSPORTS-8 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/8.ts
-#EXTINF:-1,AR:BEINSPORTS-9 HD
-http://arabapps.live:8000/live/69081529072676/69081529072676/9.ts
-#EXTINF:-1,BEINSPORT 1Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/627.ts
-#EXTINF:-1,BEINSPORT 2Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/626.ts
-#EXTINF:-1,BEINSPORT 3Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/625.ts
-#EXTINF:-1,BEINSPORT 4Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/624.ts
-#EXTINF:-1,BEINSPORT 5Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/623.ts
-#EXTINF:-1,BEINSPORT 6Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/622.ts
-#EXTINF:-1,BEINSPORT 7Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/621.ts
-#EXTINF:-1,BEINSPORT 8Low
-http://arabapps.live:8000/live/69081529072676/69081529072676/620.ts
-#EXTINF:-1,AR:BEINSPORTS-1 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1130.ts
-#EXTINF:-1,AR:BEINSPORTS-2 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1129.ts
-#EXTINF:-1,AR:BEINSPORTS-3 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1128.ts
-#EXTINF:-1,AR:BEINSPORTS-4 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1127.ts
-#EXTINF:-1,AR:BEINSPORTS-5 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1126.ts
-#EXTINF:-1,AR:BEINSPORTS-6 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1125.ts
-#EXTINF:-1,AR:BEINSPORTS-7 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1124.ts
-#EXTINF:-1,AR:BEINSPORTS-8 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1123.ts
-#EXTINF:-1,AR:BEINSPORTS-9 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1122.ts
-#EXTINF:-1,AR:BEINSPORTS-10 SD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1121.ts
-#EXTINF:-1,Bein Max 1 FHD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1134.ts
-#EXTINF:-1,Bein Max 2 FHD
-http://arabapps.live:8000/live/69081529072676/69081529072676/1135.ts
+http://163.172.105.25:80/live?channelId=192&uid=2237&deviceMac=00:1A:79:4A:27:AB
