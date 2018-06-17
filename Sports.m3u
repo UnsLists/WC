@@ -17,6 +17,8 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:0,ON  Sport
 http://62.68.66.247:8002/play/s15
 
+#EXTINF:-1,BEIN SPORTS MAX 2 (RAYA TV)
+http://htvmada.mada.ps:8888/raya/index.m3u8
 #EXTINF:-1,BEIN SPORTS MAX 1
 http://iptv-janberyan.cf:8888/live/webmax/webmax4467/1186.m3u8
 #EXTINF:-1,BEIN SPORTS MAX 2
